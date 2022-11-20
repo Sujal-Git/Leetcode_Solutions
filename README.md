@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-1 | <a href="" target="_blank">Single Number</a> | Easy
+1 | <a href="https://github.com/Sujal-Git/Leetcode_Solutions/blob/main/Solutions/Leetcode_136.py" target="_blank">Single Number</a> | Easy
  </h3>
 
 
