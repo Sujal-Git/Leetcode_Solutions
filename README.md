@@ -2,9 +2,8 @@
 <h2 align="center">Leetcode Solutions With the Problem Statement</h2>
 
 
-<h3 align="center">
-1 | <a href="https://github.com/Sujal-Git/Leetcode_Solutions/blob/main/Solutions/Leetcode_136.py" target="_blank">Single Number</a>  | Easy<br>
-2 | <a href="https://github.com/Sujal-Git/Leetcode_Solutions/blob/main/Solutions/Leetcode_136.py" target="_blank">Single Number2</a> | Medium
- </h3>
-
+| Sr.no | Name  | Difficulty    |
+| :---:   | :---: | :---: |
+|1 | <a href"https://github.com/Sujal-Git/Leetcode_Solutions/blob/main/Solutions/Leetcode_137.py">Single number</a> | Easy  |
+|2 |Single number 2 | medium  |
 
